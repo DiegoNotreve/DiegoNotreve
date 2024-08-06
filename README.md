@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Diego 😁
+## Bem-vindo(a) 😁
 
  <div>
    <a href="https://github.com/DiegoNotreve">
