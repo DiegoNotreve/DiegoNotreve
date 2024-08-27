@@ -1,6 +1,6 @@
-## Bem-vindo(a) 😁
+## Bem-vindo(a) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">😁
  <p align="center">
-  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00AEFF&size=18&center=true&lines=Olá,+Mundo!+🌎;Bem-vindo(a)+ao+meu+perfil+😁;Feliz+em+ver+você+aqui!+😀;Dê+uma+olhada+nos+meus+trabalhos+😌;Se+você+precisar+de+mim+🤗;Me+chame+nas+redes+sociais+📲;Tenha+um+ótimo+dia!+😊"></a>
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00AEFF&size=18&center=true&lines=Olá,+Mundo!+🌎;Bem-vindo(a)+ao+meu+perfil+😁;Feliz+em+ver+você+aqui!+😀;Dê+uma+olhada+nos+meus+projetos+😌;Ficou+com+dúvida?;Me+chame+nas+redes+sociais+📲;Tenha+um+ótimo+dia!+😊"></a>
 </p>
  <div>
    <a href="https://github.com/DiegoNotreve">
@@ -21,7 +21,6 @@
 ### Me siga nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/@sandiego6187" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/Diegonotreve" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:notreveogeid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/everton-diego-163b49194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
