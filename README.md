@@ -1,5 +1,7 @@
 ## Bem-vindo(a) 😁
-
+ <p align="center">
+  <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=00AEFF&size=18&center=true&lines=Olá,+Mundo!+🌎;Bem-vindo(a)+ao+meu+perfil+😁;Feliz+em+ver+você+aqui!+😀;Dê+uma+olhada+nos+meus+trabalhos+😌;Se+você+precisar+de+mim+🤗;Me+chame+nas+redes+sociais+📲;Tenha+um+ótimo+dia!+😊"></a>
+</p>
  <div>
    <a href="https://github.com/DiegoNotreve">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoNotreve&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
